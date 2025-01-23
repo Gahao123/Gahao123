@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @Gahao123
-- 👀 I’m interested in test
-- 🌱 I’m currently learning ...
-- 📖 My blog [have a try](https://gahao123.github.io/)
-- 📫 How to reach me ...
+- 🌱 I’m currently learning software engineering
+- 📖 My blog [Ga豪的站点](https://gahao123.github.io/)
+- 📫 How to reach me
+  - 👉[Steam](https://steamcommunity.com/id/25518xw/)
+  - Others are hidden
 - 😄 Pronouns: testt
 - ⚡ Fun fact: ...
-
-<!---
-Gahao123/Gahao123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
