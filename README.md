@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gahao123
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering at DLUT
 - 📖 My blog [Ga豪的站点](https://gahao123.github.io/)
 - 📫 How to reach me
   - 👉[Steam](https://steamcommunity.com/id/25518xw/)
