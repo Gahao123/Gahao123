@@ -3,7 +3,8 @@
 - 🌱 Currently a graduate student
 - 📖 My blog [Ga豪的站点](https://gahao123.github.io/)
 - 📫 How to reach me
-  - 👉[Steam](https://steamcommunity.com/id/25518xw/)
+  - [Email](1403265112@qq.com)
+  - [Steam](https://steamcommunity.com/id/25518xw/)
   - Others are hidden
 - 😄 Pronouns: testt
 - ⚡ Fun fact: ...
