@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gahao123
 - 🎓 Studied & studying Software Engineering at DLUT (B.S. → M.S.)  
 - 🌱 Currently a graduate student
-- 📖 My blog [Ga豪的站点](https://gahao123.github.io/)
+- 📖 My blog
 - 📫 How to reach me
   - [Email](1403265112@qq.com)
   - [Steam](https://steamcommunity.com/id/25518xw/)
